@@ -1,2 +1,2 @@
-# ai_ml_couse
-AI ML Course
+# ai-ml
+All About ML
